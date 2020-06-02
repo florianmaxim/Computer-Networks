@@ -1,4 +1,4 @@
-# Understandung Computer Networks
+# How The Internet Works (Understandung Computer Networks)
 
 ## 1. Gaining a basic understanding of computer networks with:
 Networking Tutorial by Ben Eater:
