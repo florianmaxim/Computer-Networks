@@ -15,7 +15,10 @@ https://www.youtube.com/watch?v=3b_TAYtzuho
 ## 5. Another great OSI explanation by Eli The Computer Guy:
 https://www.youtube.com/watch?v=HEEnLZV2wGI
 
-## 6. Find actually good litertature on networking:
+## 6. And another great course by a Google person:
+https://www.youtube.com/watch?v=QKfk7YFILws
+
+## 7. Find actually good litertature on networking:
 
 "Computer Networks" by Andrew Tanenbaum:
 http://www.uoitc.edu.iq/images/documents/informatics-institute/exam_materials/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf
